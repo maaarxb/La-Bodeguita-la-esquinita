@@ -17,6 +17,7 @@ namespace BodegaLaEsquinita
 
             // Inicia BodegaLaEsquinita mostrando primero el formulario de Login.
             Application.Run(new FrmLogin());
+            // Implementar ventas Pendiente
         }
     }
 }
